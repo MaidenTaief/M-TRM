@@ -1,0 +1,7 @@
+#Thu Nov 30 22:43:33 BDT 2017
+base.0=C\:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4676c367c54b975df7209ec7b77da959f34cedbc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9081905e834821d04fc7f67306610a9dfe12144b\\classes.dex
+base.1=C\:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9081905e834821d04fc7f67306610a9dfe12144b
+file.0=C\:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4676c367c54b975df7209ec7b77da959f34cedbc\\classes.dex

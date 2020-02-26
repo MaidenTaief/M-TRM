@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Android\\.android\\build-cache\\fc4b574fc0ccbc9e54aecebf5078dac493445b49\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\fc4b574fc0ccbc9e54aecebf5078dac493445b49\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\fc4b574fc0ccbc9e54aecebf5078dac493445b49\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Android\\.android\\build-cache\\fc4b574fc0ccbc9e54aecebf5078dac493445b49\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Android\\.android\\build-cache\\fc4b574fc0ccbc9e54aecebf5078dac493445b49\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minhaz Minar\\Desktop\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Android\\.android\\build-cache\\fc4b574fc0ccbc9e54aecebf5078dac493445b49\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

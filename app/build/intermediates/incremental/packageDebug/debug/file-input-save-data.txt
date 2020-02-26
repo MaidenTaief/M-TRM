@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 29 18:02:24 BDT 2018
+0.baseType=DIRECTORY
+0.base=E\:\\personal\\2.2\\Helicopter2-20170705T163019Z-001\\Mission-TRM\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\37
+0.path=classes.dex
+0.set=DEX
+count=1
